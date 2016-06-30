@@ -1,0 +1,28 @@
+
+.contact-info {
+  margin-left: 15px;
+}
+
+.portfolio-back{
+  max-height: 200px;
+  width: 100%;
+}
+
+.nav-info {
+  padding: 10px 0px 10px 10px;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.98);
+}
+
+.profile-image {
+  float: left;
+  height: 100px;
+  width: 100px;
+}
+
+.bio {
+  padding: 10px 10px 10px 10px;
+}
+.project-image {
+  height: 400px;
+}
