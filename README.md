@@ -2,7 +2,7 @@
 
 # A portfolio website built with React.
 
-![alt text](https://github.com/RaphaelBaskerville/folio/blob/master/public/images/readme-image.jpg "ReadMe Image")
+![alt text](https://github.com/RaphaelBaskerville/folio/blob/master/public/images/folio-readme.jpg "ReadMe Image")
 
 ### Node
 
